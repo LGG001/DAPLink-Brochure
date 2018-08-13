@@ -66,7 +66,8 @@ DIPDAP是基于NXP LPC11U35为核心，支持CMSIS-DAP接口、拖拽式下载�
 * 提供一个官方DAPLink方案验证
 * 作为小册的硬件实验使用
 
-*技新DAPLink购买地址 :point_right: [技新淘宝](https://jixiaoxin.taobao.com/)*  
+*技新DAPLink硬件地址 :point_right: [DAPLink_JX](https://lceda.cn/jixin002/daplink_jx)* 
+*技新DAPLink购买地址 :point_right: [淘宝](https://item.taobao.com/item.htm?spm=a1z38n.10677092.0.0.53701debuPoaU9&id=575455906543)*  
 *技新DAPLink开源地址 :point_right: [码云](https://gitee.com/jixiaoxin/DAPLink-Brochures)*
 
 
